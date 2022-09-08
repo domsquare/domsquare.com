@@ -1,4 +1,4 @@
-# domsquare.com.github.io
+# domsquare.com
 English version. A few [reveal.js](https://github.com/hakimel/reveal.js/) slides introducing the Domsquare platform. Created by Domsquare SARL between 2021 and 2022.
 
 See our other [repositories](https://github.com/domsquare?tab=repositories) for more.
